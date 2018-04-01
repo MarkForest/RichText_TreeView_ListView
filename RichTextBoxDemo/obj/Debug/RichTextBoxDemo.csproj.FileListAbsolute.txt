@@ -1,0 +1,9 @@
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\bin\Debug\RichTextBoxDemo.exe.config
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\bin\Debug\RichTextBoxDemo.exe
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\bin\Debug\RichTextBoxDemo.pdb
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.csprojResolveAssemblyReference.cache
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.Form1.resources
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.Properties.Resources.resources
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.csproj.GenerateResource.Cache
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.exe
+c:\users\teacher\documents\visual studio 2015\Projects\RichText_TreeView_ListView\RichTextBoxDemo\obj\Debug\RichTextBoxDemo.pdb

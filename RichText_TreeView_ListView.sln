@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RichTextBoxDemo", "RichTextBoxDemo\RichTextBoxDemo.csproj", "{962AFBE9-DB0A-46F0-BBC1-F78E3AA22EED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeViewDemo", "TreeViewDemo\TreeViewDemo.csproj", "{AC83DC98-E336-417F-BE34-BE0C6AC9E856}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardTreeViewDemo", "HardTreeViewDemo\HardTreeViewDemo.csproj", "{A284EF04-14DB-4185-B58F-E75D5F2A8243}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragAndDrop", "DragAndDrop\DragAndDrop.csproj", "{25F28C40-1048-4B99-84F7-30B1EDD6B928}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{962AFBE9-DB0A-46F0-BBC1-F78E3AA22EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{962AFBE9-DB0A-46F0-BBC1-F78E3AA22EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{962AFBE9-DB0A-46F0-BBC1-F78E3AA22EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{962AFBE9-DB0A-46F0-BBC1-F78E3AA22EED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC83DC98-E336-417F-BE34-BE0C6AC9E856}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC83DC98-E336-417F-BE34-BE0C6AC9E856}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC83DC98-E336-417F-BE34-BE0C6AC9E856}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC83DC98-E336-417F-BE34-BE0C6AC9E856}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A284EF04-14DB-4185-B58F-E75D5F2A8243}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A284EF04-14DB-4185-B58F-E75D5F2A8243}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A284EF04-14DB-4185-B58F-E75D5F2A8243}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A284EF04-14DB-4185-B58F-E75D5F2A8243}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25F28C40-1048-4B99-84F7-30B1EDD6B928}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25F28C40-1048-4B99-84F7-30B1EDD6B928}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25F28C40-1048-4B99-84F7-30B1EDD6B928}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25F28C40-1048-4B99-84F7-30B1EDD6B928}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
